@@ -13,7 +13,7 @@ I've bin working in e-commerce since 2000 and I've taken care of the whole proce
 From conception to coordination with several teams, develeopment (of course) and optimization.
 
 ## Find me here too, or get in touch
-[Homepage](https://www.saschadiercks.dev)
-[Twitter](https://twitter.com/saschadiercks)
-[LinkedIn](https://www.linkedin.com/in/saschadiercks)
-[Xing](https://www.xing.com/profile/Sascha_Diercks)
+[Homepage](https://www.saschadiercks.dev) //
+ // [Twitter](https://twitter.com/saschadiercks)
+ // [LinkedIn](https://www.linkedin.com/in/saschadiercks)
+ // [Xing](https://www.xing.com/profile/Sascha_Diercks)
