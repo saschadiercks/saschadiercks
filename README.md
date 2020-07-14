@@ -5,7 +5,7 @@ My profession is to build desireable and converting frontends.
 
 I've also developed a foundation in UX, UI and CRO. I've lead a team to improve the conversion rate.
 
-I've already build a Design System / Framework based on BEM and ITCSS because I like handcrafted solutions instead of the one size fits some solution.
+I've already build a Design System / Framework based on BEM and ITCSS because I like handcrafted solutions instead of the "one size fits some" solution.
 
 ## Let me tell your about my workflow
 
