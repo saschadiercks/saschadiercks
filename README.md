@@ -1,7 +1,7 @@
 # HI, I'm Sascha
 
 I'm Senior Fronted Developer bei Dänisches Bettenlager / JYSK.
-My profession is to build desireable and converting frontends.
+My profession is to build fast, desireable and converting frontends.
 
 I've also developed a foundation in UX, UI and CRO. I've lead a team to improve the conversion rate.
 
