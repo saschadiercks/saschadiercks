@@ -1,6 +1,4 @@
 # HI, I'm Sascha
-<div style="display: flex;">
- <div style="flex: 1 1 50%;">
   I'm Senior Fronted Developer bei Dänisches Bettenlager / JYSK.
   My profession is to build fast, desireable and converting frontends.
 
@@ -18,9 +16,7 @@
    // [Twitter](https://twitter.com/saschadiercks)
    // [LinkedIn](https://www.linkedin.com/in/saschadiercks)
    // [Xing](https://www.xing.com/profile/Sascha_Diercks)
- </div>
 
- <div style="flex: 1 1 50%;">
+----
+
   ![Saschas's github stats](https://github-readme-stats.vercel.app/api?username=saschadiercks&show_icons=true)
- </div>
-</div>
