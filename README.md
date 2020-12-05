@@ -8,8 +8,8 @@
 
   ## Let me tell your about my workflow
 
-  I've bin working in e-commerce since 2000 and I've taken care of the whole process.
-  From conception to coordination with several teams, develeopment (of course) and optimization.
+  I've beenn working in e-commerce since 2000 and I've taken care of the whole process:
+  from conception to coordination with several teams, develeopment (of course) and optimization.
 
   ## Get in touch
   [Homepage](https://www.saschadiercks.dev)
