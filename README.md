@@ -21,7 +21,3 @@
    // [Twitter](https://twitter.com/saschadiercks)
    // [LinkedIn](https://www.linkedin.com/in/saschadiercks)
    // [Xing](https://www.xing.com/profile/Sascha_Diercks)
-
-----
-
-  ![Saschas's github stats](https://github-readme-stats.vercel.app/api?username=saschadiercks&show_icons=true)
