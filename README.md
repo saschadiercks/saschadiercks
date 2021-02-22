@@ -1,5 +1,5 @@
 <hr/>
-<img src="github-hero-nordic.jpg" width="1200" height="300" alt="" />
+<img src="github-hero-nordic.jpg" width="1200" alt="" />
 
 ----
 
