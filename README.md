@@ -21,3 +21,4 @@
    // [Twitter](https://twitter.com/saschadiercks)
    // [LinkedIn](https://www.linkedin.com/in/saschadiercks)
    // [Xing](https://www.xing.com/profile/Sascha_Diercks)
+   // <a href="https://mastodon.social/@saschadiercks" rel="me">Mastodon</a>
