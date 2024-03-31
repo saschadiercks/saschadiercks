@@ -17,8 +17,8 @@
   from conception to coordination with several teams, develeopment (of course) and optimization.
 
   ## Get in touch
-  [Homepage](https://www.saschadiercks.dev)
+  [Homepage](https://www.saschadiercks.de)
    // [Twitter](https://twitter.com/saschadiercks)
    // [LinkedIn](https://www.linkedin.com/in/saschadiercks)
    // [Xing](https://www.xing.com/profile/Sascha_Diercks)
-   // <a href="https://mastodon.social/@saschadiercks" rel="nofollow me">Mastodon</a>
+   // <a href="https://social.vivaldi.net/@saschadiercks" rel="nofollow me">Mastodon</a>
